@@ -80,4 +80,4 @@ async def 재생(ctx, *, msg):
     else:
         await ctx.send("이미 노래가 재생 중이라 노래를 재생할 수 없어요!")
 
-bot.run('ODg0MDIzMzc4Mjg4MTg5NDkz.YTSc7Q.gIGRX18J9LMlUDU_nluDUDWl_IA')
+bot.run('ODg0MDIzMzc4Mjg4MTg5NDkz.YTSc7Q.9Shs3Hmw4okUW1cLRIpTVmQVIVs')
