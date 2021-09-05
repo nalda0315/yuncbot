@@ -1,0 +1,10 @@
+discord.py==0.16.12
+commands
+YoutubeDL
+time
+asyncio
+bs4
+webdriver
+Options
+get
+FFmpegPCMAudio
